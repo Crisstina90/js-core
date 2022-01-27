@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#dreptunghi {
+    background-color: salmon;
+    height: 10em;
+    width: 15em;
+}
