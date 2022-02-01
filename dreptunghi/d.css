@@ -10,3 +10,13 @@ body{
     height: 10em;
     width: 15em;
 }
+
+#cerc {
+    background-color: rgb(88, 43, 129);
+    height: 4em;
+    width: 4em;
+    border-radius: 50%;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
